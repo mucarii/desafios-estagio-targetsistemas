@@ -5,7 +5,7 @@ def is_fibonacci(n):
     return b == n or n == 0
 
 # Exemplo de uso
-numero = 20  # Número a ser verificado
+numero = 21  # Número a ser verificado
 if is_fibonacci(numero):
     print(f"O número {numero} pertence a sequência de Fibonacci.")
 else:
