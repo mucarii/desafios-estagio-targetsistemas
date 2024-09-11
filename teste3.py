@@ -1,5 +1,4 @@
 import json
-import xml
 
 # Carregar os dados do arquivo JSON
 with open("dados.json", "r") as file:
