@@ -1,7 +1,8 @@
 import json
+import xml
 
 # Carregar os dados do arquivo JSON
-with open('teste3.json', 'r') as file:
+with open("dados.json", "r") as file:
     faturamento = json.load(file)
 
 # Filtrar os dias com faturamento maior que 0

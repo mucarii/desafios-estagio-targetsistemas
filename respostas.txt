@@ -9,9 +9,12 @@ Técnica:
 
 2)O número 21 pertence a sequência de Fibonacci.
 
-3)Menor valor de faturamento: 123.45
-Maior valor de faturamento: 1234.56
-Dias com faturamento acima da média: 13
+3)
+dados.json = 
+Menor valor de faturamento: 373.7838
+Maior valor de faturamento: 48924.2448
+Dias com faturamento acima da média: 10
+
 
 4)SP: 37.53%
 RJ: 20.29%
